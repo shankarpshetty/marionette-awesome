@@ -1,0 +1,31 @@
+{
+  "name": "marionette-awesome",
+  "version": "0.0.1",
+  "description": "Marionette boilerplate stuff",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shankarpshetty/marionette-awesome.git"
+  },
+  "author": "Shankar Shetty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shankarpshetty/marionette-awesome/issues"
+  },
+  "homepage": "https://github.com/shankarpshetty/marionette-awesome#readme",
+  "dependencies": {
+    "backbone": "^1.2.3",
+    "backbone.marionette": "^2.4.4",
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1",
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {
+    "handlebars-loader": "^1.1.4",
+    "nodemon": "^1.8.1",
+    "webpack": "^1.12.9"
+  }
+}
